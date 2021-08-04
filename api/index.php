@@ -6,7 +6,7 @@
     "nombre": "Rainbow Six",
     "imagen": "RainbowSix.jpg",
     "descripcion": "Tom Clancys Rainbow Six Siege es el nuevo lanzamiento del shooter más aclamado desarrollado por el estudio Ubisoft Montreal.",
-    "precio": 9030.23
+    "precio": 9030.2349
   },
   {
     "id": 2,
@@ -20,7 +20,7 @@
     "nombre": "Terraria",
     "imagen": "Terraria.jpg",
     "descripcion": "¡Cava, lucha, explora, construye! Con este juego de aventuras repleto de acción nada es imposible. ¡Pack de Cuatro también disponible!",
-    "precio": 100.89
+    "precio": 100.8977
   },
   {
     "id": 4,
@@ -34,7 +34,7 @@
     "nombre": "Phasmo",
     "imagen": "Phasmophobia.jpg",
     "descripcion": "Phasmophobia es un juego de terror psicológico cooperativo en línea para 4 jugadores. La actividad paranormal va en aumento y depende de ti y de tu equipo utilizar todo el equipo de caza de fantasmas a tu disposición para reunir la mayor cantidad de evidencia posible.",
-    "precio": 415.23
+    "precio": 415.236
   },
   {
     "id": 6,
